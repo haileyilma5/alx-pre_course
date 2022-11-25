@@ -1,6 +1,4 @@
-o "ALX":q
-:wq
-#!/bin/bash
+ALX
 echo "ALX"
 :wq
 :q
